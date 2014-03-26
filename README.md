@@ -1,4 +1,1 @@
-# TestNodeJava
-
-
-Created with [Nodeclipse v0.3](https://github.com/Nodeclipse/nodeclipse-1)   
+test code for the nodejs java module
